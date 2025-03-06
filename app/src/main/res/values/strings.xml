@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">AiAR</string>
+    <string name="title_activity_sign_reg.kt">Sign_reg.kt</string>
+    <string name="title_activity_sginup_reg">Sginup_Reg</string>
+    <string name="title_activity_sign_up_page">SignUp_page</string>
+    <string name="title_activity_register_page">RegisterPage</string>
+    <string name="title_activity_home_screen">HomeScreen</string>
+    <string name="title_activity_sign_reg">sign_reg</string>
+    <string name="title_activity_splash_screen">SplashScreen</string>
+    <string name="title_activity_chairs_main">ChairsMain</string>
+</resources>

@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "299151796790",
+    "firebase_url": "https://college-a591f-default-rtdb.firebaseio.com",
+    "project_id": "college-a591f",
+    "storage_bucket": "college-a591f.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:299151796790:android:d7a43939331fb10cab0697",
+        "android_client_info": {
+          "package_name": "com.example.aiar"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAnTWcz3JaOFng7G8dxuMblwmNWX9uDJ0c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
