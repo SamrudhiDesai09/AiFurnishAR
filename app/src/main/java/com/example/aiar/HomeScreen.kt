@@ -87,6 +87,16 @@ fun HomeScreen(navController: NavHostController, modifier: Modifier = Modifier, 
                             }
                     )
                     val context = LocalContext.current
+                    
+                    Button(
+    onClick = {
+        val intent = Intent(context, AiRecommendationActivity::class.java)
+        context.startActivity(intent)
+    },
+    modifier = Modifier.padding(16.dp)
+) {
+    Text("AI Recommend")
+}
 
                     Button(
                         onClick = {
